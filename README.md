@@ -1,5 +1,4 @@
- # ABOUT ME
- Hello and welcome! 
+👋🏻welcome! 
 # I’m @Harshitduggal1, a passionate software developer with over 3 years of hands-on experience in crafting high-performance
 # production-ready Softwares.
 #  My journey in technology has been nothing short of exhilarating, and I am dedicated to pushing the boundaries of what is possible through innovative software solutions.
