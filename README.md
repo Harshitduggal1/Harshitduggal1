@@ -12,7 +12,6 @@ With **3+ years** of experience in **Machine Learning**, **React Native**, and *
 - **Dayflow**: Open-source scheduling software
 
 ---
-
 ## ⚡️ Experience
 
 ### Full-Stack Developer
