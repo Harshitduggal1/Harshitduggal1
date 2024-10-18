@@ -51,6 +51,6 @@ With **3+ years** of experience in **Machine Learning**, **React Native**, and *
 ![](https://github-contributor-stats.vercel.app/api?username=harshitduggal1&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshitduggal1&icon=0&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harshitduggal1&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
