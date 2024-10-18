@@ -26,6 +26,15 @@ With **3+ years** of experience in **Machine Learning**, **React Native**, and *
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harshitduggal1&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshitduggal1&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitduggal1&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://raw.githubusercontent.com/harshitduggal1/harshitduggal1/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitduggal1" alt="harshitduggal1" /></a> </p>
 
@@ -34,11 +43,6 @@ With **3+ years** of experience in **Machine Learning**, **React Native**, and *
 </p>
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshitduggal1&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshitduggal1&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitduggal1&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
