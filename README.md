@@ -26,8 +26,7 @@ With **3+ years** of experience in **Machine Learning**, **React Native**, and *
 
 ---
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/harshitduggal5) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshitduggal1&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshitduggal1&theme=midnight-purple&hide_border=false)<br/>
