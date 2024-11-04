@@ -55,9 +55,6 @@ With **3+ years** of experience in **Machine Learning**, **React Native**, and *
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshitduggal1&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=harshitduggal1&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
